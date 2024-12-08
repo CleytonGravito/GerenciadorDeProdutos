@@ -1,8 +1,6 @@
 <h1 align="center">
-    **DESAFIO FINAL | New Thinkers 2024.2 [.NET] | SQUADRA DIGITAL**
+    DESAFIO FINAL | New Thinkers 2024.2 [.NET] | SQUADRA DIGITAL
 </h1>
-
----
 
 ## Escopo do Desafio:
 ![Introdução ao Desafio](Imagens/1.png)
@@ -11,6 +9,7 @@
 ---
 
 ## Descrição do projeto
+
 Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado. A aplicação oferece operações CRUD (Create, Read, Update, Delete) para manipular os produtos no banco de dados. A arquitetura Clean Architecture é usada para garantir uma separação clara de responsabilidades, incluindo camadas Application, Domain, Data e IoC. O código segue princípios de Clean Code para manutenção e legibilidade.**Nota:** Essa API foi desenvolvida Exclusivamente para o Desafio Final do Programa New Thinkers 2024.2 da Squadra Digital.<br/>
 
 <h3 align="center">
@@ -18,11 +17,11 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
 </h3>
 
 <h4>
-    <img src="https://img.shields.io/badge/testes-?%20aprovados%2C%200%2?falhas-green" />
-    <img src="https://img.shields.io/badge/versão-v1.0.0-blue" />
-    <img src="https://img.shields.io/badge/último%20atualização-dezembro%202024-lightblue" />
-    <img src="https://img.shields.io/badge/linguagem-c%23-orange" />
-    <img src="https://img.shields.io/badge/plataforma-asp.net%20core-orange" />
+    <img src="https://img.shields.io/badge/testes-1%20aprovados%2C%200%20falhas-green" align="center" />
+    <img src="https://img.shields.io/badge/versão-v1.0.0-blue" align="center" />
+    <img src="https://img.shields.io/badge/último%20atualização-dezembro%202024-lightblue" align="center" />
+    <img src="https://img.shields.io/badge/linguagem-c%23-orange" align="center" />
+    <img src="https://img.shields.io/badge/plataforma-asp.net%20core-orange" align="center" />
 </h4>
 
  ---
@@ -33,7 +32,7 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
   <li><a href="#funcionalidades">Funcionalidades</a></li>
   <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></li>
   <li><a href="#pré-requisitos">Pré-requisitos</a></li>
-  <li><a href="##demonstração-da-aplicação">Demonstração da aplicação</a></li>
+  <li><a href="##demonstração-da-aplicação">Demonstração da Aplicação</a></li>
   <li><a href="#considerações-finais">Considerações Finais</a></li>
 </ul>
 
@@ -69,14 +68,15 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
 
 ---
 
-## Demonstração da aplicação
+## Demonstração da Aplicação
+
 [Assista ao vídeo do projeto](video/demo.mp4)
 
 ---
 
 ## Considerações Finais
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andressa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/CleytonGravito/)](https://www.linkedin.com/in/CleytonGravito/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Cleyton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/CleytonGravito/)](https://www.linkedin.com/in/CleytonGravito/) 
 [![Gmail Badge](https://img.shields.io/badge/-Cleytong122@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Cleytong122@gmail.com)](mailto:Cleytong122@gmail.com)
 
 <br/><br/>
