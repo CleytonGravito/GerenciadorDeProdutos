@@ -6,7 +6,6 @@
 ![Introdução ao Desafio](Imagens/1.png)
 ![Introdução ao Desafio](Imagens/2.png)
 
----
 
 ## Descrição do projeto
 
@@ -17,14 +16,13 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
 </h3>
 
 <h4>
-    <img src="https://img.shields.io/badge/testes-1%20aprovados%2C%200%20falhas-green" align="center" />
-    <img src="https://img.shields.io/badge/versão-v1.0.0-blue" align="center" />
-    <img src="https://img.shields.io/badge/último%20atualização-dezembro%202024-lightblue" align="center" />
-    <img src="https://img.shields.io/badge/linguagem-c%23-orange" align="center" />
-    <img src="https://img.shields.io/badge/plataforma-asp.net%20core-orange" align="center" />
+    <img src="https://img.shields.io/badge/testes-1%20aprovados%2C%200%20falhas-green" />
+    <img src="https://img.shields.io/badge/versão-v1.0.0-blue" />
+    <img src="https://img.shields.io/badge/último%20atualização-dezembro%202024-red" />
+    <img src="https://img.shields.io/badge/linguagem-c%23-orange" />
+    <img src="https://img.shields.io/badge/plataforma-asp.net%20core-orange" />
 </h4>
 
- ---
 
 ## Índice
 <ul>
@@ -32,11 +30,10 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
   <li><a href="#funcionalidades">Funcionalidades</a></li>
   <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></li>
   <li><a href="#pré-requisitos">Pré-requisitos</a></li>
-  <li><a href="##demonstração-da-aplicação">Demonstração da Aplicação</a></li>
+  <li><a href="#demonstração-da-aplicação">Demonstração da Aplicação</a></li>
   <li><a href="#considerações-finais">Considerações Finais</a></li>
 </ul>
 
----
 
 ## Funcionalidades
 
@@ -45,7 +42,6 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
 - [x] Autenticação segura com JWT Bearer.
 - [x] Separação clara de camadas para facilitar a manutenção e o teste de cada componente.
 
----
 
 ## Tecnologias Utilizadas
 
@@ -59,20 +55,17 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
 - Arquitetura: Clean Architecture (Camadas Application, Domain, Data, IoC)
 - Princípios: Clean Code
 
----
 
 ## Pré-requisitos
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
 - SQL Server instalado e configurado
 
----
 
 ## Demonstração da Aplicação
 
 [Assista ao vídeo do projeto](video/demo.mp4)
 
----
 
 ## Considerações Finais
 
