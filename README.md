@@ -92,6 +92,6 @@ $ git clone https://github.com/CleytonGravito/GerenciadorDeProdutos.git
 [![Gmail Badge](https://img.shields.io/badge/-Cleytong122@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Cleytong122@gmail.com)](mailto:Cleytong122@gmail.com)
 
 <br/><br/>
-Agradeço ao Professor e a Squadra
+Obrigado ao Professor Francisco pela didática nas aulas de .NET e à Squadra Digital pelo Bootcamp e pela oportunidade de aprendizado. 🚀
 <br/><br/>
 
