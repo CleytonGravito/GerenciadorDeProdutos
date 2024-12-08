@@ -66,6 +66,25 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
 
 [Assista ao vídeo do projeto](video/demo.mp4)
 
+## Executando a Aplicação
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/CleytonGravito/GerenciadorDeProdutos.git
+
+# Crie uma nova conexão no gerenciador de banco de dados SQL Server, chamada "nome da sua máquina" + "\SQLEXPRESS"
+
+# Utilize as Migrations
+
+# Abra o projeto no Visual Studio ou no Visual Studio Code
+
+# Altere o Data Source da DefaultConnection, presente no arquivo appsettings.json, para "nome da sua máquina" + "\\SQLEXPRESS"
+
+# Execute a aplicação
+
+# JSON de exemplo esta em um bloco de notas nos arquivos chamado: JSON_de_Exemplo
+```
+
 
 ## Considerações Finais
 
