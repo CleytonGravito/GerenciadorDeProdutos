@@ -16,7 +16,7 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
 </h3>
 
 <h4>
-    <img src="https://img.shields.io/badge/testes-1%20aprovados%2C%200%20falhas-green" />
+    <img src="https://img.shields.io/badge/testes-10%20aprovados%2C%200%20falhas-green" />
     <img src="https://img.shields.io/badge/versão-v1.0.0-blue" />
     <img src="https://img.shields.io/badge/último%20atualização-dezembro%202024-red" />
     <img src="https://img.shields.io/badge/linguagem-c%23-orange" />
@@ -62,23 +62,18 @@ Este projeto é uma API .NET desenvolvida para gerenciar produtos em um mercado.
 - SQL Server instalado e configurado
 
 
-## Demonstração da Aplicação
-
-[Assista ao vídeo do projeto](video/demo.mp4)
-
 ## Executando a Aplicação
 
 ```bash
 # Clone este repositório
 $ git clone https://github.com/CleytonGravito/GerenciadorDeProdutos.git
 
-# Crie uma nova conexão no gerenciador de banco de dados SQL Server, chamada "nome da sua máquina" + "\SQLEXPRESS"
-
-# Utilize as Migrations
-
 # Abra o projeto no Visual Studio ou no Visual Studio Code
 
 # Altere o Data Source da DefaultConnection, presente no arquivo appsettings.json, para "nome da sua máquina" + "\\SQLEXPRESS"
+
+# Aplicar as Migrations ao Banco de Dados
+Update-Database
 
 # Execute a aplicação
 

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.5.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GerenciadorProdutosAPI.Application\GerenciadorProdutosAPI.Application.csproj" />
+    <ProjectReference Include="..\GerenciadorProdutosAPI.Domain\GerenciadorProdutosAPI.Domain.csproj" />
+    <ProjectReference Include="..\GerenciadorProdutosAPI.Infra.Data\GerenciadorProdutosAPI.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
